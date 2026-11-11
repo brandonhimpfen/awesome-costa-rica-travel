@@ -1,10 +1,16 @@
 # Awesome Costa Rica Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandonhimpfen/awesome-travel)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ)
 
 > A curated list of resources for traveling in Costa Rica, covering official portals, transport, region guides, national parks, and digital nomad resources.
 
 Costa Rica is a biodiverse Central American destination celebrated for its lush rainforest reserves, active volcanoes, Pacific and Caribbean coastlines, and pioneering ecotourism initiatives. This list is intended for eco-travelers, wildlife conservationists, surf enthusiasts, and nature explorers.
+
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
 
 ## Contents
 
@@ -96,7 +102,9 @@ Practical advice on emergency contacts, wildlife protection rules, and water saf
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
