@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Costa Rica, covering official portals, transport, region guides, national parks, and digital nomad resources.
 
+Costa Rica is a biodiverse Central American destination celebrated for its lush rainforest reserves, active volcanoes, Pacific and Caribbean coastlines, and pioneering ecotourism initiatives. This list is intended for eco-travelers, wildlife conservationists, surf enthusiasts, and nature explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
